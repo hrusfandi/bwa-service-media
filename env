@@ -1,0 +1,6 @@
+PORT=8080
+
+DB_NAME=bwa-micro-media
+DB_USERNAME=yourmysqluser
+DB_PASSWORD=yourmysqlpassword
+DB_HOSTNAME=yourmysqlhost
